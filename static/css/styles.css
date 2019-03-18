@@ -5,7 +5,7 @@
   margin-right: auto;
 }
 .perfil {
-   color: white;
+   color: white !important;
 }
 html {
   font-size: 100%;
@@ -520,7 +520,7 @@ img {
 }
 .section-title a,
 .entry-title a {
-  color: white;
+  color: #333333;
 }
 .section-title span,
 .entry-title span {
