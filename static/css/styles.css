@@ -4,8 +4,8 @@
   margin-left: auto;
   margin-right: auto;
 }
-#perfil {
-   color: white;
+.perfil {
+   color: white !important;
 }
 html {
   font-size: 100%;
